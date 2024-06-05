@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "FoodDelivery.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "FoodDelivery.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FoodDelivery.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FoodDelivery.Application.dll": {}
+        }
+      },
+      "FoodDelivery.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/FoodDelivery.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FoodDelivery.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoodDelivery.Application/1.0.0": {
+      "type": "project",
+      "path": "../FoodDelivery.Application/FoodDelivery.Application.csproj",
+      "msbuildProject": "../FoodDelivery.Application/FoodDelivery.Application.csproj"
+    },
+    "FoodDelivery.Domain/1.0.0": {
+      "type": "project",
+      "path": "../FoodDelivery.Domain/FoodDelivery.Domain.csproj",
+      "msbuildProject": "../FoodDelivery.Domain/FoodDelivery.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "FoodDelivery.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ilya\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\It\\Git repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj",
+      "projectName": "FoodDelivery.Infrastructure",
+      "projectPath": "D:\\It\\Git repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Ilya\\.nuget\\packages\\",
+      "outputPath": "D:\\It\\Git repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Ilya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\It\\Git repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\FoodDelivery.Application.csproj": {
+              "projectPath": "D:\\It\\Git repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\FoodDelivery.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

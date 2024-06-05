@@ -1,0 +1,15 @@
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net8.0\FoodDelivery.Application.deps.json
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net8.0\FoodDelivery.Application.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net8.0\FoodDelivery.Application.pdb
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.AssemblyInfoInputs.cache
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.AssemblyInfo.cs
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.csproj.CoreCompileInputs.cache
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\refint\FoodDelivery.Application.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.pdb
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\ref\FoodDelivery.Application.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net8.0\FoodDelivery.Domain.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net8.0\FoodDelivery.Domain.pdb
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.csproj.AssemblyReference.cache
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDeli.D0AE88F3.Up2Date
