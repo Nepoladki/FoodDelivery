@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I7dyPP5uZ9Ds+gEErrsNJ6tOOjIZ7gKGC9gTJeIEf4LhNevLDX5gT+eOPlvlP13TkOYK4ZOylYwf3up4NwQ8SQ==",
+  "dgSpecHash": "NK4q49zmZenJwM1Ykz8lbPsO41LuEVXZiZnFdJyCBp1MEpJr2Ujk74PAxcOJBIXcSMlJBnTVw47N8VYlluYIRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\It\\Git repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

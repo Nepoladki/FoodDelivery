@@ -29,3 +29,4 @@ C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\ob
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\refint\FoodDelivery.Application.dll
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.pdb
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\ref\FoodDelivery.Application.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.sourcelink.json

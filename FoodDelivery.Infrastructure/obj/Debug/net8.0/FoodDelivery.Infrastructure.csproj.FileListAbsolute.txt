@@ -33,3 +33,4 @@ C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\refint\FoodDelivery.Infrastructure.dll
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\FoodDelivery.Infrastructure.pdb
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\ref\FoodDelivery.Infrastructure.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\FoodDelivery.Infrastructure.sourcelink.json

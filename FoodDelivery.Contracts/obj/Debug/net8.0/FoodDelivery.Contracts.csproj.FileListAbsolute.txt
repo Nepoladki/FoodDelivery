@@ -21,3 +21,4 @@ C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\refint\FoodDelivery.Contracts.dll
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\FoodDelivery.Contracts.pdb
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\ref\FoodDelivery.Contracts.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\FoodDelivery.Contracts.sourcelink.json

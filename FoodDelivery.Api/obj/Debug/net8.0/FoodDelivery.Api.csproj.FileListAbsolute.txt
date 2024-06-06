@@ -5,17 +5,11 @@ D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Food
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Api.runtimeconfig.json
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Api.dll
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Api.pdb
-D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.csproj.AssemblyReference.cache
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.GeneratedMSBuildEditorConfig.editorconfig
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.AssemblyInfoInputs.cache
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.AssemblyInfo.cs
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.csproj.CoreCompileInputs.cache
-D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\staticwebassets.build.json
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\staticwebassets.development.json
@@ -75,3 +69,5 @@ C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.pdb
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.genruntimeconfig.cache
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\ref\FoodDelivery.Api.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.sourcelink.json
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
