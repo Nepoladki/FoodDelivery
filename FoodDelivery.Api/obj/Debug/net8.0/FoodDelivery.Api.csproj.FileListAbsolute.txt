@@ -39,3 +39,39 @@ D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Food
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Application.pdb
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Infrastructure.pdb
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Domain.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Api.exe
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Api.deps.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Api.runtimeconfig.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Api.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Api.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Application.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Contracts.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Domain.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Infrastructure.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Contracts.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Application.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Infrastructure.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FoodDelivery.Domain.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.AssemblyInfo.cs
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.sourcelink.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\staticwebassets\msbuild.FoodDelivery.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.FoodDelivery.Api.props
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FoodDelivery.Api.props
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FoodDelivery.Api.props
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\scopedcss\bundle\FoodDelivery.Api.styles.css
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDeli.1D8A989E.Up2Date
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\refint\FoodDelivery.Api.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.genruntimeconfig.cache
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\ref\FoodDelivery.Api.dll

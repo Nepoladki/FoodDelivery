@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ilya\\.nuget\\packages\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\It\\Git repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\FoodDelivery.Application.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\FoodDelivery.Application.csproj",
       "projectName": "FoodDelivery.Application",
-      "projectPath": "D:\\It\\Git repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\FoodDelivery.Application.csproj",
-      "packagesPath": "C:\\Users\\Ilya\\.nuget\\packages\\",
-      "outputPath": "D:\\It\\Git repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\obj\\",
+      "projectPath": "C:\\Users\\user\\source\\repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\FoodDelivery.Application.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ilya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\It\\Git repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Domain\\FoodDelivery.Domain.csproj": {
-              "projectPath": "D:\\It\\Git repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Domain\\FoodDelivery.Domain.csproj"
+            "C:\\Users\\user\\source\\repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Domain\\FoodDelivery.Domain.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Domain\\FoodDelivery.Domain.csproj"
             }
           }
         }
@@ -94,7 +94,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

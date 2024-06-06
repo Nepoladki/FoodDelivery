@@ -15,3 +15,21 @@ D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\bin\Debug\
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\bin\Debug\net8.0\FoodDelivery.Domain.pdb
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\FoodDelivery.Infrastructure.csproj.AssemblyReference.cache
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\FoodDeli.7752ACBA.Up2Date
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\bin\Debug\net8.0\FoodDelivery.Infrastructure.deps.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\bin\Debug\net8.0\FoodDelivery.Infrastructure.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\bin\Debug\net8.0\FoodDelivery.Infrastructure.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\bin\Debug\net8.0\FoodDelivery.Application.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\bin\Debug\net8.0\FoodDelivery.Domain.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\bin\Debug\net8.0\FoodDelivery.Application.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\bin\Debug\net8.0\FoodDelivery.Domain.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\FoodDelivery.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\FoodDelivery.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\FoodDelivery.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\FoodDelivery.Infrastructure.AssemblyInfo.cs
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\FoodDelivery.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\FoodDelivery.Infrastructure.sourcelink.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\FoodDeli.7752ACBA.Up2Date
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\FoodDelivery.Infrastructure.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\refint\FoodDelivery.Infrastructure.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\FoodDelivery.Infrastructure.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net8.0\ref\FoodDelivery.Infrastructure.dll

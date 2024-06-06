@@ -9,3 +9,15 @@ D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\refint\FoodDelivery.Contracts.dll
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\FoodDelivery.Contracts.pdb
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\ref\FoodDelivery.Contracts.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\bin\Debug\net8.0\FoodDelivery.Contracts.deps.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\bin\Debug\net8.0\FoodDelivery.Contracts.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\bin\Debug\net8.0\FoodDelivery.Contracts.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\FoodDelivery.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\FoodDelivery.Contracts.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\FoodDelivery.Contracts.AssemblyInfo.cs
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\FoodDelivery.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\FoodDelivery.Contracts.sourcelink.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\FoodDelivery.Contracts.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\refint\FoodDelivery.Contracts.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\FoodDelivery.Contracts.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Contracts\obj\Debug\net8.0\ref\FoodDelivery.Contracts.dll

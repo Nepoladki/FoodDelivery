@@ -13,3 +13,19 @@ D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net8.0\FoodDelivery.Domain.pdb
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.csproj.AssemblyReference.cache
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDeli.D0AE88F3.Up2Date
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net8.0\FoodDelivery.Application.deps.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net8.0\FoodDelivery.Application.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net8.0\FoodDelivery.Application.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net8.0\FoodDelivery.Domain.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net8.0\FoodDelivery.Domain.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.sourcelink.json
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDeli.D0AE88F3.Up2Date
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\refint\FoodDelivery.Application.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\FoodDelivery.Application.pdb
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net8.0\ref\FoodDelivery.Application.dll
