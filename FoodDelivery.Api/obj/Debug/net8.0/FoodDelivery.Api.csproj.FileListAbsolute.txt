@@ -71,3 +71,9 @@ C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\ref\FoodDelivery.Api.dll
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.sourcelink.json
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
