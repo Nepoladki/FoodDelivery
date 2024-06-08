@@ -77,3 +77,8 @@ C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
