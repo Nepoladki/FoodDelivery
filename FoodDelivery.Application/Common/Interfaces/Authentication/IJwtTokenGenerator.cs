@@ -1,6 +1,8 @@
+using FoodDelivery.Domain.Entities;
+
 namespace FoodDelivery.Application.Common.Interfaces.Authentication;
 
 public interface IJwtTokenGenerator
 {
-    string GenerateToken(Guid userId, string firstName, string LastName);
+    string GenerateToken(User user);
 }

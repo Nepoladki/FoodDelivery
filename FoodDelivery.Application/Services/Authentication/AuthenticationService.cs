@@ -29,13 +29,10 @@ public class AuthenticationService(IJwtTokenGenerator jwtTokenGenerator, IUserRe
         _userRepository.Add(user);
         
         //Create JWT token
-        var token = _jwtTokenGenerator.GenerateToken(user.Id, firstName, lastName);
+        var token = _jwtTokenGenerator.GenerateToken(user);
         
         return new AuthenticationResult(
-            user.Id,
-            firstName,
-            lastName,
-            email,
+            user,
             token);
     }
 
@@ -50,14 +47,11 @@ public class AuthenticationService(IJwtTokenGenerator jwtTokenGenerator, IUserRe
             throw new Exception("Invalid password");
 
         //Create JWT token
-        var token = _jwtTokenGenerator.GenerateToken(user.Id, user.FirstName, user.LastName);
+        var token = _jwtTokenGenerator.GenerateToken(user);
                 
         return new AuthenticationResult(
             
-            user.Id,
-            user.FirstName,
-            user.LastName,
-            email,
+            user,
             token);
     }
 }
