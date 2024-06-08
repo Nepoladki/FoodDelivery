@@ -1,5 +1,3 @@
-using System.ComponentModel;
-
 namespace FoodDelivery.Domain.Entities;
 
 public class User

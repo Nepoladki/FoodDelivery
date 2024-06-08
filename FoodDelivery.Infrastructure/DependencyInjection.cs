@@ -1,6 +1,8 @@
 using FoodDelivery.Application.Common.Interfaces.Authentication;
+using FoodDelivery.Application.Common.Interfaces.Persistence;
 using FoodDelivery.Application.Common.Interfaces.Services;
 using FoodDelivery.Infrastructure.Authentication;
+using FoodDelivery.Infrastructure.Persistence;
 using FoodDelivery.Infrastructure.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -13,8 +15,12 @@ public static class DependencyInjectioin
     ConfigurationManager configuration)
     {
         services.Configure<JwtSettings>(configuration.GetSection(JwtSettings.SectionName));
+
         services.AddSingleton<IJwtTokenGenerator, JwtTokenGenerator>();
         services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
+
+        services.AddScoped<IUserRepository, UserRepository>();
+        
         return services;
     }
 }
