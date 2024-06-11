@@ -10,7 +10,8 @@
         "dependencies": {
           "FoodDelivery.Application": "1.0.0",
           "FoodDelivery.Contracts": "1.0.0",
-          "FoodDelivery.Infrastructure": "1.0.0"
+          "FoodDelivery.Infrastructure": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
         },
         "runtime": {
           "FoodDelivery.Api.dll": {}

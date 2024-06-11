@@ -1,4 +1,4 @@
-namespace FoodDelivery.Api.Errors;
+namespace FoodDelivery.Api.Common.Errors;
 using System.Diagnostics;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

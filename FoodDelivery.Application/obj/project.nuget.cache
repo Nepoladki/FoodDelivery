@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6e+uZdALiisY2rMUEuCeCQKzd/wZu4T6UeUI8gdCpT7RwWo5Jzweb06pv/Jz78tb5w8csjQjZpfFE6sUMMEAOQ==",
+  "dgSpecHash": "V1tCrFOYTclNmARWAMW00SccpRzsPOqsQyQuRJMzO51mxeQKKRDs2I9BxNu5JIQkSWMh601168e6yqG1f+gCzA==",
   "success": true,
-  "projectFilePath": "D:\\It\\Git repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\FoodDelivery.Application.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\FoodDelivery.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\oneof\\3.0.271\\oneof.3.0.271.nupkg.sha512"
   ],
   "logs": []
 }

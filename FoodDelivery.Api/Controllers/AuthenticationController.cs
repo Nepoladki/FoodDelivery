@@ -1,3 +1,4 @@
+using System.Security.Cryptography.X509Certificates;
 using FoodDelivery.Application.Services.Authentication;
 using FoodDelivery.Contracts.Authentication;
 using Microsoft.AspNetCore.Mvc;
@@ -16,20 +17,27 @@ public class AuthenticationController : ControllerBase
     [HttpPost("register")]
     public IActionResult Register(RegisterRequest request)
     {
-        var authResult = _authenticationService.Register(
+        OneOf.OneOf<AuthenticationResult, Application.Common.Errors.DuplicateEmailError> registerResult = _authenticationService.Register(
             request.FirstName,
             request.LastName,
             request.Email,
             request.Password);
 
-        var response = new AuthenticationResponse(
-            authResult.User.Id,
-            authResult.User.FirstName,
-            authResult.User.LastName,
-            authResult.User.Email,
-            authResult.Token);
+        if (registerResult.IsT0)
+        {
+            var authResult = registerResult.AsT0;
 
-        return Ok(response);
+            var response = new AuthenticationResponse(
+                authResult.User.Id,
+                authResult.User.FirstName,
+                authResult.User.LastName,
+                authResult.User.Email,
+                authResult.Token);
+
+            return Ok(response);
+        }
+        
+        return Problem(statusCode: StatusCodes.Status409Conflict, title: "Email already exists");
     }
 
     [HttpPost("login")]

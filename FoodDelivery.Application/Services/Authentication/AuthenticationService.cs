@@ -1,6 +1,8 @@
+using FoodDelivery.Application.Common.Errors;
 using FoodDelivery.Application.Common.Interfaces.Authentication;
 using FoodDelivery.Application.Common.Interfaces.Persistence;
 using FoodDelivery.Domain.Entities;
+using OneOf;
 
 namespace FoodDelivery.Application.Services.Authentication;
 
@@ -9,12 +11,12 @@ public class AuthenticationService(IJwtTokenGenerator jwtTokenGenerator, IUserRe
     private readonly IJwtTokenGenerator _jwtTokenGenerator = jwtTokenGenerator;
     private readonly IUserRepository _userRepository = userRepository;
 
-    public AuthenticationResult Register(string firstName, string lastName, string email, string password)
+    public OneOf<AuthenticationResult, DuplicateEmailError> Register(string firstName, string lastName, string email, string password)
     {
         //Validate the user doen't exists
         if (_userRepository.GetUserByEmail(email) is not null)
         {
-            throw new Exception("User with given email already exists.");
+            return new DuplicateEmailError();
         }
 
         //Create user (unique id)
