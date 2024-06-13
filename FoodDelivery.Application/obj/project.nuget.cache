@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "V1tCrFOYTclNmARWAMW00SccpRzsPOqsQyQuRJMzO51mxeQKKRDs2I9BxNu5JIQkSWMh601168e6yqG1f+gCzA==",
+  "dgSpecHash": "wK5BXgw9x+T9yQYOHhOW4mfGTHQaUVaWbnSDA98D+W0vfNVlRzlA3tN901oJevkAzEiBvlFVI5fy1phB3fz0Tg==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\FoodDelivery.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\oneof\\3.0.271\\oneof.3.0.271.nupkg.sha512"
   ],

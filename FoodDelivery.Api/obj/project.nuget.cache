@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PpKMOhpVKpS+erZztkm9jTC0KLzgf7kUj+L4In1Ke1gk0ZlXiVpCoBulrPQaByhdNe3XlDjRME1GFY65DBTzJA==",
+  "dgSpecHash": "QmgPNSqBEaqXQOIlmHM14xsZwUZFPs/jyBXxf+fFFhRpwzZ4Re7KFBGEf3AXTP2ZbyiarxQJZy1N47rIIJaHMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Api\\FoodDelivery.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
