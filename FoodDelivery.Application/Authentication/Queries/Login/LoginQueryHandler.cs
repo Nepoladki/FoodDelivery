@@ -7,14 +7,14 @@ using FoodDelivery.Domain.Entities;
 using FoodDelivery.Application.Authentication.Common;
 
 namespace FoodDelivery.Application.Authentication.Queries.Login;
-public class LoginCommandHandler : 
+public class LoginQueryHandler : 
     IRequestHandler<LoginQuery, ErrorOr<AuthenticationResult>>
     
 {
     private readonly IJwtTokenGenerator _jwtTokenGenerator;
     private readonly IUserRepository _userRepository;
 
-    public LoginCommandHandler(IUserRepository userRepository, IJwtTokenGenerator jwtTokenGenerator)
+    public LoginQueryHandler(IUserRepository userRepository, IJwtTokenGenerator jwtTokenGenerator)
     {
         _userRepository = userRepository;
         _jwtTokenGenerator = jwtTokenGenerator;
@@ -22,6 +22,8 @@ public class LoginCommandHandler :
 
     public async Task<ErrorOr<AuthenticationResult>> Handle(LoginQuery query, CancellationToken cancellationToken)
     {
+        await Task.CompletedTask;
+        
         //Validate the user exists
         if (_userRepository.GetUserByEmail(query.Email) is not User user)
             return Errors.Authentication.InvalidCredentials;

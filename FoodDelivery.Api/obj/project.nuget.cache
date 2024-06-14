@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "x1TqdQNaAhR6nDqryC1f66kVgpOx0h6/88pptbo3CMbDlE1tkf+hc/fji9uSGDzL3Xn+q+XPgZFsKBXYy7T2Hg==",
+  "dgSpecHash": "uJvjFT/70sqSI/ev03+fgF8lBUkwd+I7roDIQUQbVTah8whHLjkWSjNKEAT9xHJq9u9QY3nMbZmoiF5Ms+jxUQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Api\\FoodDelivery.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mapster.dependencyinjection\\1.0.1\\mapster.dependencyinjection.1.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

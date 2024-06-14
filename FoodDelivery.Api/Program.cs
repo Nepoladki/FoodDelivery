@@ -1,18 +1,13 @@
-using FoodDelivery.Api.Common.Errors;
+using FoodDelivery.Api;
 using FoodDelivery.Application;
 using FoodDelivery.Infrastructure;
-using Microsoft.AspNetCore.Mvc.Infrastructure;
-using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.
+    AddPresentation().
     AddApplication().
     AddInfrastructure(builder.Configuration);
-
-builder.Services.AddControllers();
-
-builder.Services.AddSingleton<ProblemDetailsFactory, FoodDeliveryProblemDetailsFactory>();
 
 var app = builder.Build();
 
