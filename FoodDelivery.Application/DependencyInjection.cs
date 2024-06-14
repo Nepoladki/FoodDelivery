@@ -1,13 +1,14 @@
-using FoodDelivery.Application.Services.Authentication;
+
+using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace FoodDelivery.Application;
 
-public static class DependencyInjectioin
+public static class DependencyInjection
 {
     public static IServiceCollection AddApplication(this IServiceCollection services)
     {
-            services.AddScoped<IAuthenticationService, AuthenticationService>();
+            services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(DependencyInjection).Assembly));
 
             return services;
     }

@@ -84,3 +84,5 @@ C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\ref\FoodDelivery.Api.dll
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\ErrorOr.dll
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\OneOf.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\MediatR.Contracts.dll

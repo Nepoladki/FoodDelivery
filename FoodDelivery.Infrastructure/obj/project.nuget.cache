@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CYY2qZiSsqj5XAaZpmSHKWlZ11sx37JFmKUiP6RgmAozozuNEmI236bjTtOKQkoL1o0p+uUGlRc4oEUcZwJUJA==",
+  "dgSpecHash": "Tjth4Y5ugsD46aZRH+i/Q/BHevGi4J/cjFN3U9+qBD72iktogXgxSVhy3ZVBHQt557nK+AquSOU2ri+50ZlY+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",

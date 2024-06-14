@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wK5BXgw9x+T9yQYOHhOW4mfGTHQaUVaWbnSDA98D+W0vfNVlRzlA3tN901oJevkAzEiBvlFVI5fy1phB3fz0Tg==",
+  "dgSpecHash": "USaenQHH6alEDZkoLaC9hCJ0jpTrVeZgjiPsNxVEfcH2wie735rHogH5x3L4ssNv6+t9yMizvX22qPM+ZyQ3Zw==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\FoodDelivery.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\oneof\\3.0.271\\oneof.3.0.271.nupkg.sha512"
   ],
