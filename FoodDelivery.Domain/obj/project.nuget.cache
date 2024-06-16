@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lpwpYqnFn2GXPbuYqOWCxDr3RzlNfnt8KC/h73p2e7JVv6UShuQvT9NZtU9Xy8dX/etgRruA3LLH/2PwngVIbQ==",
+  "dgSpecHash": "jjCkQ9J76vjhfAID/BT6F2aSJemevzODUWA1GSa10eSPcWaGYSSnTAluWNknjUR9XDlfG5oabmO3HUXNtcLnvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Domain\\FoodDelivery.Domain.csproj",
+  "projectFilePath": "D:\\It\\Git repos\\FoodDelivery\\FoodDelivery\\FoodDelivery.Domain\\FoodDelivery.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
+    "C:\\Users\\Ilya\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
   ],
   "logs": []
 }

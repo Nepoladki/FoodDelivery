@@ -23,3 +23,4 @@ C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Domain\obj\Deb
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Domain\obj\Debug\net8.0\ref\FoodDelivery.Domain.dll
 D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Domain\obj\Debug\net8.0\FoodDelivery.Domain.sourcelink.json
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Domain\obj\Debug\net8.0\FoodDelivery.Domain.csproj.AssemblyReference.cache
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Domain\obj\Debug\net8.0\FoodDelivery.Domain.csproj.AssemblyReference.cache

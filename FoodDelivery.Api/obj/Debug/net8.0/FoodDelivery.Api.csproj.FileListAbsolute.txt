@@ -89,3 +89,14 @@ C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Mapster.dll
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Mapster.Core.dll
 C:\Users\user\source\repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\ErrorOr.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Mapster.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Mapster.Core.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\MediatR.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\OneOf.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\It\Git repos\FoodDelivery\FoodDelivery\FoodDelivery.Api\obj\Debug\net8.0\FoodDelivery.Api.MvcApplicationPartsAssemblyInfo.cs

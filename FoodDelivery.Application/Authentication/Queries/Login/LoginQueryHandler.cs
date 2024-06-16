@@ -36,7 +36,6 @@ public class LoginQueryHandler :
         var token = _jwtTokenGenerator.GenerateToken(user);
                 
         return new AuthenticationResult(
-            
             user,
             token);
     }
