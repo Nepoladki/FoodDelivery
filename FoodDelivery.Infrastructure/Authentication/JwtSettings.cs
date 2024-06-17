@@ -1,5 +1,3 @@
-using System.ComponentModel;
-
 namespace FoodDelivery.Infrastructure.Authentication;
 
 public class JwtSettings

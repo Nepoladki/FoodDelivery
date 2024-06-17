@@ -7,9 +7,11 @@ using FoodDelivery.Application.Authentication.Commands.Register;
 using FoodDelivery.Application.Authentication.Common;
 using FoodDelivery.Application.Authentication.Queries.Login;
 using MapsterMapper;
+using Microsoft.AspNetCore.Authorization;
 
 namespace FoodDelivery.Api.Controllers;
 [Route("auth")]
+[AllowAnonymous]
 public class AuthenticationController : ApiController
 {
     private readonly ISender _mediator;
